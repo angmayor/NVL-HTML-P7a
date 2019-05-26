@@ -7,7 +7,7 @@
   <body>
   <ul>
     <img scr= "DESKTOP/angel/imagenes/Vengadores_poster.jpg" width="13" height="13"/>
-    <li><a herf=»https://www.imdb.com/title/tt4154796/?ref_=nv_sr_1?ref_=nv_sr_1«>Vengadores</a></li>
+    <li><a herf=»https://www.imdb.com/title/tt4154796/«>Vengadores</a></li>
     <img scr= "DESKTOP/angel/imagenes/Toy_Story_4_poster.jpg"/>
     <li>Toy Story 4</li>
     <img scr = "C:\Users\IVETTE DURAN\Desktop\angel\imagenes/Glass_poster.jpg"/>
